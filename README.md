@@ -1,5 +1,5 @@
 
-![blueprint](images/diabetes-management_3_1500x400.jpg)
+![blueprint](Images/diabetes-management_3_1500x400.jpg)
 
 
 #  Predicting Readmission Rates of Diabetic Patients: A Machine Learning Approach
@@ -9,7 +9,7 @@ Author: Diana Nduta Mwaura
 
 Poor readmission rates increases the risk of potential patients diverting to other facilities. The purpose of this project to create a model that can be used to predict whether or not a patient will be readmitted before or after 30 days after being discharged. Machine Learning models were tested to determine their performance in making predictions. The prediction of readmission rates can be used by caregivers to reduce on deaths related to diabetes and improve on resource allocation.  
 
-![blueprint](images/1000-8_1500x400.png)
+![blueprint](Images/1000-8_1500x400.png)
 
 ## Business Problem
 
@@ -27,7 +27,7 @@ Modeling was performed whereby different models such as the Logictic Regression 
 
 The metrics that were used to select the best model are the recall score, accuracy score and the cross validation scores.
 
-![blueprint](images/general_performance.png)
+![blueprint](Images/general_performance.png)
 
 The Logistic Regression Classifier was selected as the best model because it had the best overall metric scores and its computational complexity was low.
 
