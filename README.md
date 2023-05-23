@@ -64,7 +64,7 @@ Check out the full analysis in the [Jupyter Notebook](https://github.com/DianaNd
 
 ## Repository Path
 
-![blueprint](images/Capture.PNG)
+![blueprint](Images/Capture.PNG)
 
 
 
