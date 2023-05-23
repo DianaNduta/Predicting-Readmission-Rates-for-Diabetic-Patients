@@ -49,7 +49,13 @@ They should consider applying Logitsic Regression Classifier in the prediction o
 
 Further analysis can help in generating models with better metrics by;
 
-- Web scraping to acquire current more relevant data. Since the data is contiously changing, up to date information would be helpful in finding new information or acquiring new knowledge.
+-  Deploying the model by creating APIs or building user interfaces to allow healthcare professionals or stakeholders to interact with the model effectively
+
+- Exploring opportunities to enhance the predictive performance of the model by incorporating additional features, exploring advanced modeling techniques, or integrating external data sources to improve the model's performance and predictive power.
+
+- Web scraping to acquire more current relevant data. Since the data is contiously changing, up to date information would be helpful in finding new information or acquiring new knowledge.
+
+- Addressing ethical concerns by ensuring that the model's predictions are fair, unbiased, and do not perpetuate any existing biases or disparities in healthcare.
         
 
 ## For more information
