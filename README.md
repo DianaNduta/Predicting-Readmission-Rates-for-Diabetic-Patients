@@ -60,10 +60,11 @@ Further analysis can help in generating models with better metrics by;
 
 ## For more information
 
-Check out the full analysis in the [Jupyter Notebook](https://github.com/DianaNduta/Microsoft-Movie-Analysis/blob/master/Microsoft%20Movie%20Genre%20Analysis.ipynb) or review this [Presentation](https://github.com/DianaNduta/Microsoft-Movie-Analysis/blob/master/Presentation.pdf)
+Check out the full analysis in the [Jupyter Notebook](https://github.com/DianaNduta/Predicting-Readmission-Rates-for-Diabetic-Patients/blob/master/notebook.ipynb) or review this [Presentation](https://github.com/DianaNduta/Predicting-Readmission-Rates-for-Diabetic-Patients/blob/master/Presentation.pdf)
+
 ## Repository Path
 
-![blueprint](images/Repositorypath.PNG)
+![blueprint](images/Capture.PNG)
 
 
 
