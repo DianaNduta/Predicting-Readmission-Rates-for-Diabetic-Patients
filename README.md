@@ -7,7 +7,7 @@ Author: Diana Nduta Mwaura
 
 ## Overview
 
-Poor readmission rates increases the risk of potential patients diverting to other facilities. The purpose of this project to create a model that can be used to predict whether or not a patient will be readmitted before or after 30 days after being discharged. Machine Learning models were tested to determine their performance in making predictions. The prediction of readmission rates can be used by caregivers to reduce on deaths related to diabetes and improve on resource allocation.  
+Poor readmission rates increases the risk of potential patients diverting to other facilities. The purpose of this project is to create a model that can be used to predict whether or not a patient will be readmitted before or after 30 days after being discharged. Machine Learning models were tested to determine their performance in making predictions. The prediction of readmission rates can be used by caregivers to reduce thw number of deaths related to diabetes and improve on resource allocation.  
 
 ![blueprint](Images/1000-8_1500x400.png)
 
